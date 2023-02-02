@@ -1,6 +1,6 @@
 {
   "name": "taro-image-clipper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "小程序图片裁剪器，基于Taro",
   "main": "src/index.ts",
